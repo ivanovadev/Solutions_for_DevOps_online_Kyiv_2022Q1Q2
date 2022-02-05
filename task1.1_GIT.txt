@@ -1,0 +1,13 @@
+4a569c8 (HEAD -> develop, origin/develop) HEAD@{0}: commit (merge): resolved conflict
+20986e1 (origin/styles, styles) HEAD@{1}: merge styles: Fast-forward
+a4638de HEAD@{2}: checkout: moving from styles to develop
+20986e1 (origin/styles, styles) HEAD@{3}: commit: html file was changed
+085f05a HEAD@{4}: commit: added css file
+a4638de HEAD@{5}: checkout: moving from develop to styles
+a4638de HEAD@{6}: checkout: moving from images to develop
+1fdfd3f (origin/images, images) HEAD@{7}: commit: added pictures to html file
+ba77e8e HEAD@{8}: commit: added 2 pictures
+a4638de HEAD@{9}: checkout: moving from develop to images
+a4638de HEAD@{10}: commit: creating index.html
+0a8098d (origin/main, main) HEAD@{11}: checkout: moving from main to develop
+0a8098d (origin/main, main) HEAD@{12}: commit (initial): init commit
